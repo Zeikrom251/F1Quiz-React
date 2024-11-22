@@ -1,8 +1,9 @@
-# React + Vite
+# ReactJS Project - Learning the React Framework
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This repository hosts a project built using **React.JS**. The project was manually reacreated as a learning exercise to explore and understand React through a concrete example.
 
-Currently, two official plugins are available:
+You can download the source code from the main branch and try the project at home.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### 🎬 Here are the Youtube videos
+- [Quiz App](https://www.youtube.com/watch?v=VMZ7lcSdVnY)
+- [How To deploy your React Project on Github](https://www.youtube.com/watch?v=ziPzOp6j0Oo)
